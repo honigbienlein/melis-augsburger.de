@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+/* Custom CSS Classes */
+
+.ma-section{
+  @apply pt-10 pb-20 border-b;
+}
+
+.ma-h2{
+  @apply sm:text-lg md:text-2xl lg:text-4xl font-bold text-left py-6;
+}
+
+@tailwind utilities;
