@@ -8,7 +8,7 @@
 }
 
 .ma-h2{
-  @apply sm:text-lg md:text-2xl lg:text-4xl font-bold text-left py-6;
+  @apply sm:text-base md:text-lg lg:text-xl font-bold text-left py-6;
 }
 
 @tailwind utilities;
